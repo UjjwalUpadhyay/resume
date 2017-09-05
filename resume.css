@@ -37,7 +37,7 @@ div {
 }
 .education.subsection {
     border-top: 0px;
-    height: 110px;
+    height: 165px;
 }
 .section .h2 {
     padding-left: 1em;
@@ -75,7 +75,7 @@ div {
     float: right;
 }
 .gpa {
-    float: left;
+    float: right;
     padding-left: 265px;
 }
 .content {
