@@ -21,7 +21,7 @@
             "tags":     ["education"]
         },
         {
-            "school":   "GGPS",
+            "school":   "Guru Gobind Singh Public School",
             "year":     "2008",
             "degree":   "XII",
             "major":    "PCM",
@@ -29,7 +29,7 @@
             "tags":     ["education"]
         },
         {
-            "school":   "GGPS",
+            "school":   "Guru Gobind Singh Public School",
             "year":     "2006",
             "degree":   "X",
             "major":    "PCMS",
@@ -45,7 +45,7 @@
             "time":         "4 months",
             "achievements": ["Wrote the frontend for the tapp product",
                             "Used technologies like React, Flux, webpack, sass, git"],
-            "technologies": ["React JS", "Flux, ""JavaScript", "CSS"],
+            "technologies": ["React JS", "Flux", "JavaScript", "CSS"],
             "links":        [{
                 "title":    "Tapp",
                 "url":      "https://tapp.com"
@@ -70,7 +70,7 @@
             "workplace":    "Pramati Technologies",
             "time":         "1yr 5months",
             "achievements": ["Worked on WaveMaker Studio - a studio for building web applications using reusable widgets using Angular 1.x, OOJS, Bootstrap and SASS.",
-                            "Worked on creating Magnifi site using Ember JS and SASS as a preprocessor for CSS.",
+                            "Worked on creating Magnifi site using Ember JS and SASS as a preprocessor for CSS."
                             ],
             "technologies": ["Angular JS", "CSS", "SASS", "HTML5"],
             "links":        [{
@@ -106,7 +106,7 @@
         {
             "title":        "Online Coding",
             "time":         "2010-Present",
-            "description":  ["Took part in various online coding events held on Codeforces, Topcoder and Codechef",
+            "description":  ["Took part in various online coding events held on Codeforces, Topcoder and Codechef"
                             ],
             "details":      "",
             "links":        [{

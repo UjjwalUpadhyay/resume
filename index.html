@@ -30,18 +30,8 @@
 			<div class="education subsection" ng-repeat="edu in edus = (resumeData.education | filter:search | lowercase)">
 				<div class="h3">{{edu.degree}} - {{edu.major}}</div>
 				<div class="h4 workplace">{{edu.school}}</div>
+        <div class="h4 gpa">{{edu.gpa}}</div>
 				<div class="h4 time">{{edu.year}}</div>
-				<div class="courses" ng-if="edu.courses.length">
-					<div class="subheading content">Courses:</div>
-					<table class="courses-table table content"><tr>
-						<td class="col-md-3"><ul>
-							<li ng-repeat="course in edu.courses" ng-if="$even">{{course}}</li>
-						</ul></td>
-						<td class="col-md-3"><ul>
-							<li ng-repeat="course in edu.courses" ng-if="$odd">{{course}}</li>
-						</ul></td>
-					</tr></table>
-				</div>
 			</div>
 		</div>
 
