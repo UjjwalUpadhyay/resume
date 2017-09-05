@@ -1,164 +1,132 @@
 {
     "personal_info": {
-        "name":     "Kaladin Stormblessed",
-        "email":    "kaladin@knightsradiant.com",
-        "phone":    "+4 567 123 890",
+        "name":     "Ujjwal Kumar Upadhyay",
+        "email":    "ujjwalkool1990@gmail.com",
+        "phone":    "+919833576466",
         "links":  [
             {
                 "title":    "Home",
-                "url":      "http://github.com/hazrmard/ng-Resume"
-            },
-            {
-                "title":    "Spellwork",
-                "url":      "http://www.example.com"
-            },
-            {
-                "title":    "Shards",
-                "url":      "https://www.example.com"
+                "url":      "https://github.com/UjjwalUpadhyay/resume"
             }
         ]
     },
 
     "education":    [
         {
-            "school":   "Village Clinic",
-            "year":     "4500",
-            "degree":   "Apprenticeship",
-            "major":    "Medicine",
-            "gpa":      "4/7",
-            "courses":  ["First Aid", "Amputation", "Herbs", "Potions", "Balms"],
+            "school":   "Birla Institute Of Technology, Mesra",
+            "year":     "2009",
+            "degree":   "B.E",
+            "major":    "IT",
+            "gpa":      "8.14",
+            "tags":     ["education"]
+        },
+        {
+            "school":   "GGPS",
+            "year":     "2008",
+            "degree":   "XII",
+            "major":    "PCM",
+            "gpa":      "87.6",
+            "tags":     ["education"]
+        },
+        {
+            "school":   "GGPS",
+            "year":     "2006",
+            "degree":   "X",
+            "major":    "PCMS",
+            "gpa":      "89.8",
             "tags":     ["education"]
         }
     ],
 
     "experience":     [
         {
-            "title":        "Knight Radiant",
-            "workplace":    "Roshar",
-            "time":         "4523",
-            "achievements": ["Protected Elhokar's armies from the Voidbringers.",
-                            "Defeeated Szeth, the assassin in white.",
-                            "Activated full powers of honorspren Syl."],
-            "technologies": ["Stormlight", "Spearmanship", "Bridges"],
+            "title":        "Software Engineer",
+            "workplace":    "Endurance International Group",
+            "time":         "4 months",
+            "achievements": ["Wrote the frontend for the tapp product",
+                            "Used technologies like React, Flux, webpack, sass, git"],
+            "technologies": ["React JS", "Flux, ""JavaScript", "CSS"],
             "links":        [{
-                "title":    "Warcamp Records",
-                "url":      "https://www.example.com"
-                }],
-            "tags":         ["shardblade", "hero", "windrunner"]
-        },
-        {
-            "title":        "Captain of Bodyguards",
-            "workplace":    "Elhokar Kholin's detail",
-            "time":         "4522 - 4523",
-            "achievements": ["Fought off Szeth after his assassination attempt at the palace.",
-                            "Over saw bodyguard training with new recruits into brdge four.",
-                            "Honed abilities with stormlight."],
-            "technologies": ["Stormlight", "Windrunning"],
-            "links":        [],
-            "tags":         ["protection"]
-        },
-        {
-            "title":        "Captain of Bodyguards",
-            "workplace":    "Dalinar Kholin's Command",
-            "time":         "4522",
-            "achievements": ["Trained in use of shardblades with Adolin Kholin.",
-                            "Protected Adolin Kholin in duel arranged by Sadeas",
-                            "Helped Shallan Deval in the chams by killing a Chasmfeind.",
-                            "Provided valuable advice to Dalinar on security."],
-            "technologies": ["Swordplay", "Stormlight"],
-            "links":        [{
-                "title":    "Scribes Account",
-                "url":      "https://www.example.com"
+                "title":    "Tapp",
+                "url":      "https://tapp.com"
                 }],
             "tags":         []
         },
         {
-            "title":        "Captain of Bridge Four",
-            "workplace":    "Sadeas' Warcamp",
-            "time":         "4521 - 4522",
-            "achievements": ["Devised new tactics to protect crew from Parshendi arrows.",
-                            "Trained men in use of weapons and strategy.",
-                            "Rescued Dalinar Kholin in battle against Eshonai"],
-            "technologies": ["Stormlight"],
-            "links":        [],
-            "tags":         []
-        }
-    ],
-
-    "projects":   [
-        {
-            "title":        "Escape Plan",
-            "time":         "4522",
-            "blurb":        "Making a run for it",
-            "description":  "A secret plan with members of bridge four to escape from Sadeas's camp. We trained in the chasms during spoil collection duties. We also collected supplies like spheres and weapons.",
-            "technologies": ["Java", "Android", "OAuth2"],
+            "title":        "Software Developer",
+            "workplace":    "CashCare Technology",
+            "time":         "4 months",
+            "achievements": ["Worked on frontend dev work for CashCare website using technologies like React JS, CSS, HTML5, LocalStorage, Bootstrap",
+                            "Worked on creating iframe project for CashCare"],
+            "technologies": ["JavaScript", "React JS", "CSS", "HTML5"],
             "links":        [{
-                "title":    "Horneater's Story",
-                "url":      "https://www.example.com"
+                "title":    "CashCare",
+                "url":      "https://www.cashcare.in"
                 }],
-            "tags":         ["secret project"]
+            "tags":         []
         },
         {
-            "title":        "Escape Plan",
-            "time":         "4520",
-            "blurb":        "Freedom",
-            "description":  "Multiple escape attempts while being transported to the plains in a slave caravan. I gave up after being subdued multiple times.",
-            "technologies": [],
+            "title":        "Development Engineer",
+            "workplace":    "Pramati Technologies",
+            "time":         "1yr 5months",
+            "achievements": ["Worked on WaveMaker Studio - a studio for building web applications using reusable widgets using Angular 1.x, OOJS, Bootstrap and SASS.",
+                            "Worked on creating Magnifi site using Ember JS and SASS as a preprocessor for CSS.",
+                            ],
+            "technologies": ["Angular JS", "CSS", "SASS", "HTML5"],
             "links":        [{
-                "title":    "Syl's Recollection",
-                "url":      "https://www.example.com"
+                "title":    "WaveMaker",
+                "url":      "https://www.wavemakeronline.com"
                 }],
-            "tags":         ["tenacity"]
+            "tags":         []
+        },
+        {
+            "title":        "Software Engineer",
+            "workplace":    "MAQ Software",
+            "time":         "1yr 3months",
+            "achievements": ["Worked on fixing frontend - javascript and CSS bugs for Sales Insights project.",
+                            "Worked on creating charting controls using HighCharts.",
+                            "Worked on drill down popups"],
+            "technologies": ["HTML5", "CSS", "JavaScript", "HighCharts"],
+            "tags":         []
         }
     ],
 
     "skills":   [
         {
-            "title":        "Warfare",
-            "skills":       ["Strategy", "Bridge Transport", "VIP Security", "Shardblades", "Leadership"]
+            "title":        "Frontend",
+            "skills":       ["React JS", "Angular JS - 1.x", "CSS", "HTML5", "JavaScript"]
         },
         {
             "title":        "Miscalleanous",
-            "skills":       ["Medicine", "Quick Healing"]
+            "skills":       ["Java", "GIT", "Angular-2", "C#", "Scala"]
         }
     ],
 
     "extracurriculars": [
         {
-            "title":        "Talking with Syl",
-            "time":         "All the time",
-            "description":  ["I like talking with syl because she is good company.",
-                            "She is a quick learner. She an even make jokes now.",
-                            "We don't have to speak. We can hear each other's thoughts."],
+            "title":        "Online Coding",
+            "time":         "2010-Present",
+            "description":  ["Took part in various online coding events held on Codeforces, Topcoder and Codechef",
+                            ],
             "details":      "",
             "links":        [{
-                "title":    "Log of Topics",
-                "url":      "http://www.example.com"
-                }],
+                "title":    "Codechef",
+                "url":      "https://www.codechef.com/users/supercooluku"
+                },
+                {
+                    "title":    "Codeforces",
+                    "url":      "http://codeforces.com/profile/supercooluku"
+                    }
+              ],
             "tags":         []
         },
         {
-            "title":        "Practising Abilities",
-            "time":         "Occasionally",
+            "title":        "Welfare and Arts Club",
+            "time":         "2017",
             "description":  [],
-            "details":      "I like to hone by skills by regularly practicing. Things I practise include swordsmanship, windrunning, worrying about my crew.",
-            "links":        [{
-                "title":    "Camp Records",
-                "url":      "http://www.example.com"
-                }],
+            "details":      "Worked under FNCS and welfare clubs in Directi.",
+            "links":        [],
             "tags":         []
         }
-    ],
-
-    "honors":       [
-        {
-            "title":        "Killed Shardbearer",
-            "details":      "Brightlord Amaram's army - 4519",
-            "tags":         ["victory"]
-        },
-        {
-            "title":        "Activated Honorspren",
-            "details":      "Battle with Szeth, Truthless of Shinovar",
-            "tags":         ["victory"]
-        }]
+    ]
 }
